@@ -7,6 +7,6 @@
 - **Ano -> Ano escolar / série**
  
 <div align="center">
-  <img height="180em" src="https://www.projetodraft.com/wp-content/uploads/2019/12/digital-innovation-one.jpg"/>
-  <img height="180em" src="https://www.avanade.com/-/media/logo/share-avanade-logo.jpg?la=pt-br&ver=1"/>
+  <img height="100em" src="https://campinas.tech/wp-content/uploads/2020/08/digitalinnovationone-logo-300x131.png"/>
+  <img height="100em" src="http://2.bp.blogspot.com/-gbUrHziRrs4/WpwLKfRiM2I/AAAAAAAA7aY/Yt8h1vGmpXoBtzgfCa-ZW7eEbkLPYA1UQCK4BGAYYCw/s1600/PAPOF%25C3%2581CIL%2523148-LOGO.png"/>
 </div>
